@@ -77,7 +77,7 @@ function App() {
             className="px-4 py-2 border-2 border-white rounded-full bg-transparent text-white"
             style={{ fontFamily: '"Saira Condensed", sans-serif' }}
           >
-           Get Styled
+           Get Branded
           </button>
           <button
             type="button"
