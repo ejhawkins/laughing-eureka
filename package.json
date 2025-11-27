@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "start": "serve -s dist -l $PORT",
+    "postinstall": "npm run build",
     "lint": "eslint easygoing",
     "preview": "vite preview",
     "predeploy": "npm run build",
